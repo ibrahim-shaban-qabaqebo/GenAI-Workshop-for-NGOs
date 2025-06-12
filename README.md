@@ -8,9 +8,7 @@
 ## 🧠 Overview
 
 ![image](https://github.com/user-attachments/assets/9469f83f-dafc-490d-b5f4-7a948abaf768)
-
-
-This repository contains all materials from the "Generative AI Workshop for NGOs" a hands-on, impact-driven training designed to empower humanitarian workers with the skills to apply Generative AI (GenAI) effectively and ethically in their work.
+![image](https://github.com/user-attachments/assets/679c576c-17f1-4f64-b9cc-e2e5706c791d)
 
 > _“AI should be an enabler not a disruptor in solving humanitarian challenges.”_
 

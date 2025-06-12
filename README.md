@@ -7,9 +7,6 @@
 
 ## 🧠 Overview
 
-![image](https://github.com/user-attachments/assets/9469f83f-dafc-490d-b5f4-7a948abaf768)
-![image](https://github.com/user-attachments/assets/679c576c-17f1-4f64-b9cc-e2e5706c791d)
-
 > _“AI should be an enabler not a disruptor in solving humanitarian challenges.”_
 
 ---
@@ -47,3 +44,6 @@ This workshop is designed for:
 6. **Automated Documentation & Reporting**
 7. **Analyzing and Validating Humanitarian Data**
 8. **Creating Visual Content with GenAI**
+
+![image](https://github.com/user-attachments/assets/9469f83f-dafc-490d-b5f4-7a948abaf768)
+![image](https://github.com/user-attachments/assets/679c576c-17f1-4f64-b9cc-e2e5706c791d)
